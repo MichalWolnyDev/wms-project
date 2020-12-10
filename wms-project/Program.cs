@@ -10,6 +10,7 @@ namespace wms_project
             Console.WriteLine("test repo");
             Console.WriteLine("test repo");
             Console.WriteLine("2222222222222222222222222");
+            Console.WriteLine("2222222222222222222222222");
         }
     }
 }
