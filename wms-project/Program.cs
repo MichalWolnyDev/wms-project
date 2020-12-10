@@ -9,6 +9,7 @@ namespace wms_project
             Console.WriteLine("Hello World!");
             Console.WriteLine("test repo");
             Console.WriteLine("test repo");
+            Console.WriteLine("2222222222222222222222222");
         }
     }
 }
